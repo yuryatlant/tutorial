@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites',
     'django.contrib.flatpages',
-  # 'django.contrib.fpages'
+    'fpages'
 ]
 
 SITE_ID=1
